@@ -1,0 +1,6 @@
+{
+  "name": "Expert Portfolio Builder",
+  "description": "An interactive assistant to help you create a professional, high-converting portfolio website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
